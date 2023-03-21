@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+.hidden
+DOME-out.log
+dome.exe
+main.wren.inc
+mode7
+game.egg
